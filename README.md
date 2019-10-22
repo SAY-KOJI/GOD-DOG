@@ -4,15 +4,15 @@ Kumpulan Fbbrute
 
 $ pkg update -y
 
-$ pkg upgrade
+$ pkg upgrade -y
 
-$ pkg install python2
+$ pkg install python2 -y
 
-$ pkg install php
+$ pkg install php -y
 
-$ pkg install git
+$ pkg install git -y
 
-$ pkg install curl
+$ pkg install curl -y
 
 $ git clone https://github.com/SAY-KOJI/Fbbrute
 

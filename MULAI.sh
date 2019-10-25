@@ -12,7 +12,10 @@ echo
 cd module
 echo
 echo
-clear
+python2 say-koji.py
+echo
+echo
+celar
 echo
 echo $red"          Tool akan di install dalam waktu 5 detik"
 echo $red"            harap sabar menunggu yaa sayang :v("

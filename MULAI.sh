@@ -94,7 +94,7 @@ echo $pur"============================="$ku" ============================="
 echo $i"  |"$pu"  AUTHOR    :  SAY-KOJI  "$i"                            |"
 echo $i"  |"$pu"  WhatsApp  :  081390962290"$i"                          |"
 echo $i"  |"$pu"  GMAIL     :  kikisaripudin6258@gmail.com"$i"           |"
-echo $i"  |"$pu"  YOUTUBE   :  RASTA MANIA"$i"                           |"
+echo $i"  |"$pu"  YOUTUBE   :  SAY KOJI.  "$i"                           |"
 echo $i"  |"$pu"  INSTAGRAM :  GA PUNYA"$i"                              |"
 echo $pur"============================="$ku" ============================="
 echo

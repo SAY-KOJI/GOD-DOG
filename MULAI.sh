@@ -276,9 +276,9 @@ if [ $pil = 15 ]
 then
 clear
 figlet -f slant " S P A M " | lolcat
-git clone https://github.com/LOoLzeC/rusuh
-cd rusuh
-python2 mulai.py
+git clone https://github.com/SAY-KOJI/SPAM-KONTAK
+cd SPAM-KONTAK
+python2 SPAM-KONTAK.py
 fi
 
 if [ $pil = 16 ]

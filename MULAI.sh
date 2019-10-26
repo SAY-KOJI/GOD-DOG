@@ -313,9 +313,11 @@ pkg install curl
 pkg install ruby
 pkg install gem
 gem install lolcat
-pkg install figlety
+pkg install figlet
+pip2 install requests
 pkg install php
 pkg install ruby
+pkg install bs4
 pkg install nano
 figlet -f slant " S U K S E S "|lolcat
 sleep 1

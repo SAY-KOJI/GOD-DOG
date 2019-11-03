@@ -1,4 +1,4 @@
-# TINGGAL Pake aja apa susanya Si cok
+# TINGGAL Pake aja apa susahnya Si cok
 
 
 
@@ -13,11 +13,17 @@ $ pkg install php -y
 
 $ pkg install git -y
 
+$ pkg install figlet --
+
+$ pkg install cowsay -y
+
+$ pkg install lolcat-y
+
 $ pkg install curl -y
 
-$ git clone https://github.com/SAY-KOJI/Fbbrute
+$ git clone https://github.com/SAY-KOJI/GOD-DOG
 
-$ cd FBbrute
+$ cd GOD-DOG
 
 $ python2 MULAI.sh
 

@@ -1,5 +1,6 @@
-# Fbbrute
-Kumpulan Fbbrute
+# TINGGAL Pake aja apa susanya Si cok
+
+
 
 
 $ pkg update -y

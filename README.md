@@ -1,4 +1,4 @@
-# TINGGAL Pake aja apa susahnya Si cok
+# Ingat Dengan Mengubah Nama Author Tidak Akan Membuat Lu Jago
 
 
 

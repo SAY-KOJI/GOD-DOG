@@ -25,7 +25,7 @@ $ git clone https://github.com/SAY-KOJI/GOD-DOG
 
 $ cd GOD-DOG
 
-$ python2 MULAI.sh
+$ sh MULAI.sh
 
 
 #18-Tools 
